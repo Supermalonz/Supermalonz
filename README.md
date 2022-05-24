@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kavepol Khunsri</h1>
-<h3 align="center">A Software Engineer, Passionate in Software Development, Machine Learning's field with Programming and Statistic Background. Experienced with Software Development, Big Data Analysis, Time Series, Neural Network and Intelligent Transportation System.</h3>
+<h3>Hi 👋, I'm Kavepol Khunsri</h3>
+<p>A Software Engineer, Passionate in Software Development, Machine Learning's field with Programming and Statistic Background. Experienced with Software Development, Big Data Analysis, Time Series, Neural Network and Intelligent Transportation System.</p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
